@@ -1,0 +1,7 @@
+body{
+    background-image: url(media\ Img/Leon.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{color: rgb(18, 172, 90);font-family: Georgia; font-size: 45px; text-align: center;}
+p{color: blue;font-family: Arial;}
