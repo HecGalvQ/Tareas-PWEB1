@@ -1,0 +1,17 @@
+body{
+    background-color:#360745;
+    }
+p{
+    
+    color: #efeac5;font-family: Arial; text-shadow: 2cm;
+    font-size: 14fr;
+    text-align: center;
+}
+img{
+        
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 25%;
+      }
+h2{color:#e7d84b; font-family:Helvetica; font-size: medium;}     
